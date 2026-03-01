@@ -1,4 +1,4 @@
-27257948635707513
+27219017742353114
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70552,13 +70552,6 @@ solder jumper open
 0
 3
 3
-KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master
-SSD1306-0.91-OLED-4pin-128x32
-
-
-0
-4
-4
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -98664,139 +98657,6 @@ rotary encoder illuminated switch vertical
 0
 9
 8
-Seeed Studio XIAO Series Library
-XIAO-Add-On
-
-
-0
-56
-14
-Seeed Studio XIAO Series Library
-XIAO-ESP32C3-DIP
-
-
-0
-28
-14
-Seeed Studio XIAO Series Library
-XIAO-ESP32C3-SMD
-
-
-0
-22
-22
-Seeed Studio XIAO Series Library
-XIAO-ESP32C6-DIP
-
-
-0
-28
-14
-Seeed Studio XIAO Series Library
-XIAO-ESP32C6-SMD
-
-
-0
-24
-24
-Seeed Studio XIAO Series Library
-XIAO-ESP32S3-DIP
-
-
-0
-28
-14
-Seeed Studio XIAO Series Library
-XIAO-ESP32S3-SMD
-
-
-0
-24
-24
-Seeed Studio XIAO Series Library
-XIAO-MG24-DIP
-
-
-0
-58
-24
-Seeed Studio XIAO Series Library
-XIAO-MG24-SMD
-
-
-0
-32
-32
-Seeed Studio XIAO Series Library
-XIAO-RA4M1-DIP
-
-
-0
-58
-24
-Seeed Studio XIAO Series Library
-XIAO-RA4M1-SMD
-
-
-0
-30
-30
-Seeed Studio XIAO Series Library
-XIAO-RP2040-DIP
-
-
-0
-28
-14
-Seeed Studio XIAO Series Library
-XIAO-RP2040-SMD
-
-
-0
-20
-20
-Seeed Studio XIAO Series Library
-XIAO-RP2350-DIP
-
-
-0
-58
-24
-Seeed Studio XIAO Series Library
-XIAO-RP2350-SMD
-
-
-0
-30
-30
-Seeed Studio XIAO Series Library
-XIAO-SAMD21-DIP
-
-
-0
-28
-14
-Seeed Studio XIAO Series Library
-XIAO-SAMD21-SMD
-
-
-0
-20
-20
-Seeed Studio XIAO Series Library
-XIAO-nRF52840-DIP
-
-
-0
-28
-14
-Seeed Studio XIAO Series Library
-XIAO-nRF52840-SMD
-
-
-0
-22
-22
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -108044,17 +107904,3 @@ Varistor VF
 0
 2
 2
-footprints
-SK6812MINI-E_fixed
-Add-on for regular MX-footprints with SK6812 MINI-E
-cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
-0
-4
-4
-footprints
-XIAO-Generic-Hybrid-14P-2.54-21X17.8MM
-
-
-0
-14
-14
