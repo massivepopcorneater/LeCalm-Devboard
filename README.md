@@ -1,2 +1,4 @@
 # LeCalm-Devboard
-Devboard
+## Schematic
+## PCB Design
+## Bill of Materials
