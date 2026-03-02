@@ -7,7 +7,7 @@
 
 ## Bill of Materials
 | Designation | Designation | JLCPCB Part # | Value | Footprint |
-| Designation |-------------|---------------|-------|-----------|
+| ------------|-------------|---------------|-------|-----------|
 | Designation | C1, C10 | C52923 | 1uF | C_0402_1005Metric |
 | Designation | C2, C3, C4, C5, C6, C7, C8, C9, C11, C12, C17 | C1525 | 0.1uF | C_0402_1005Metric |
 | Designation | C13, C14 | C19702 | 10uF | C_0603_1608Metric |
