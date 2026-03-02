@@ -1,6 +1,6 @@
 # LeCalm-Devboard
-LeCalm Devboard is an open source RP2040 based development board designed as a compact and capable platform for embedded projects. Built around the Raspberry Pi RP2040 microcontroller, it features a USB-C connector for programming and power, an onboard 3.3V regulator, a 16MB flash chip, and a 12MHz crystal oscillator for precise timing. The board includes a BOOTSEL button for easy drag and drop firmware flashing with no external programmer required.
-This project was designed from scratch in KiCad as a personal learning project, exploring PCB layout, component selection, and design for manufacture with JLCPCB.
+LeCalm Devboard is a open-source devboard built around the Raspberry Pi RP2040 microcontroller. It features a USB-C connector for programming and power, an onboard 3.3V regulator, a 16MB flash chip, and a 12MHz crystal oscillator for precise timing. The board includes a BOOTSEL button for firmware flashing.
+This project was designed in KiCad as a personal learning project, exploring PCB layout, component selection, and design for manufacture with JLCPCB.
 
 ## Schematic
 <img width="1225" height="866" alt="Schematic" src="https://github.com/user-attachments/assets/14d62234-4e0e-4939-8a38-b095d01779a9" />
