@@ -6,4 +6,7 @@
 <img width="364" height="649" alt="PCB Design" src="https://github.com/user-attachments/assets/4df4ef63-a6a6-49a0-bd78-d35c4ae1027b" />
 
 ## Bill of Materials
-
+| Pin | Function |
+|-----|----------|
+| GP0 | UART TX  |
+| GP1 | UART RX  |
