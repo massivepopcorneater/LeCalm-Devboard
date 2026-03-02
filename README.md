@@ -1,5 +1,5 @@
 # LeCalm-Devboard
 ## Schematic
-![Alt text](C:\Users\Andrew Zhang\Documents\GitHub\LeCalm-Devboard\Pictures/PCB Design)
+![PCB Design](Pictures/PCB_Design.png)
 ## PCB Design
 ## Bill of Materials
