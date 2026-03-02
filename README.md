@@ -1,6 +1,10 @@
 # LeCalm-Devboard
+LeCalm Devboard is an open source RP2040 based development board designed as a compact and capable platform for embedded projects. Built around the Raspberry Pi RP2040 microcontroller, it features a USB-C connector for programming and power, an onboard 3.3V regulator, a 16MB flash chip, and a 12MHz crystal oscillator for precise timing. The board includes a BOOTSEL button for easy drag and drop firmware flashing with no external programmer required.
+This project was designed from scratch in KiCad as a personal learning project, exploring PCB layout, component selection, and design for manufacture with JLCPCB.
+
 ## Schematic
 <img width="1225" height="866" alt="Schematic" src="https://github.com/user-attachments/assets/14d62234-4e0e-4939-8a38-b095d01779a9" />
+The schematic of the LeCalm Devboard centers around the RP2040 microcontroller. The power section takes 5V from the USB-C connector and passes it through the MCP1700 LDO regulator to produce a clean 3.3V rail, with 1uF and 10uF bulk capacitors smoothing out any voltage fluctuations. Each power pin on the RP2040 is decoupled with a dedicated 0.1uF capacitor placed as close to the pin as possible to suppress high frequency noise. The 12MHz crystal oscillator is connected to the XIN and XOUT pins of the RP2040 with two 33pF load capacitors to ground, providing the precise clock reference needed for full speed operation and stable USB communication. The USB-C connector is wired with 5.1K resistors on the CC1 and CC2 configuration pins for proper power negotiation, and 27Ω series resistors on the D+ and D- differential pair to reduce signal reflections. The W25Q128JVS flash chip is connected to the RP2040 via SPI with all power pins properly decoupled, and the BOOTSEL button is wired to the flash chip select line through a current limiting resistor to ground, allowing the RP2040 to enter USB Mass Storage mode on boot when pressed.
 
 ## PCB Design
 <img width="364" height="649" alt="PCB Design" src="https://github.com/user-attachments/assets/4df4ef63-a6a6-49a0-bd78-d35c4ae1027b" />
